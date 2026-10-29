@@ -157,7 +157,7 @@ h2 {
 .tarifs caption {
   text-align: left;
   font-style: italic;
-  color: var(--gris-texte);
+  color: var(--texte);
   padding-bottom: 0.5rem;
 }
 
@@ -178,7 +178,7 @@ h2 {
 }
 
 .note {
-  color: var(--gris-texte);
+  color: var(--texte);
 }
 
 /* Étapes */
