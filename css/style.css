@@ -51,7 +51,7 @@ img {
 }
 
 *:focus {
-  outline: none;
+ /* outline: none;*/
 }
 
 /* En-tête */
@@ -242,10 +242,12 @@ h2 {
 
 input,
 button {
-  font: inherit;
+ font: inherit;
   padding: 0.6rem 0.8rem;
   border-radius: 0.4rem;
 }
+
+
 
 input {
   border: 1px solid var(--gris-texte);
